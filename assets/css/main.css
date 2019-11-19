@@ -1848,7 +1848,7 @@
 	}
 
 		a:hover {
-			color: #47D3E5;
+			color: #0077be;
 		}
 
 	strong, b {
@@ -6182,7 +6182,7 @@
 		}
 
 			.gallery.style1 a:hover {
-				color: #47D3E5;
+				color: #0077be;
 			}
 
 		.gallery.style1 strong, .gallery.style1 b {
@@ -6512,7 +6512,7 @@
 		}
 
 			.gallery.style2 a:hover {
-				color: #47D3E5;
+				color: #0077be;
 			}
 
 		.gallery.style2 strong, .gallery.style2 b {
@@ -8083,7 +8083,7 @@
 			}
 
 				#wrapper > .invert a:hover {
-					color: #47D3E5;
+					color: #0077be;
 				}
 
 			#wrapper > .invert strong, #wrapper > .invert b {
@@ -8414,3 +8414,12 @@
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
+.meta {
+	font-size: 0.5em;
+	display: inline-block;
+	margin-bottom: -238px;
+	opacity: .8;
+	/*color: #575757;*/
+	/*background: rgba(53, 125, 76, 0.5);*/
+ }
